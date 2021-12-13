@@ -1,0 +1,11 @@
+package org.base;
+
+public class A{
+  public void empId(){
+    System.out.println("dgf");
+  }
+  
+  public static void main(String[] args){
+    A a = new A();
+    a.empId();
+  }
